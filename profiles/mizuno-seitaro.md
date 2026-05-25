@@ -2,6 +2,12 @@
 
 ![水野征太朗](./image.webp)
 変更したいです！
+ここも変更
+
+
+
+
+
 **愛知出身 / 会社経営者**
 
 ![Location](https://img.shields.io/badge/📍_Location-Aichi,_Japan-red?style=for-the-badge)
